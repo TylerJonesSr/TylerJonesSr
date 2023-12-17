@@ -5,9 +5,8 @@
 
 <p align='center'>I'm a full stack software developer and content creator building software projects from the ground up. Coding projects on this page will take an in depth look at real life problems and strategically resolve those issues with code! My video content will follow the same concepts while providing an in depth look of the entire process beginning with the issue, planning, everything in between, and finally showcasing a solution.</p> 
 
-<p align='center' >Skills: HTML | Javascript | CSS | React | Bootstrap | C# | .NET | MICROSOFT SQL SERVER | Bootstrap | JSON | VS Code | Visual Studio </p> 
 
-<h4 align='center'>Contact Information</h4>
+<h2 align='center'>Contact Information</h2>
 <p align='center'>Email: tylerjonessr@yahoo.com</p>
 <div align="center">
   <a href="https://www.linkedin.com/in/tylerjonessr/" target="_blank">
@@ -18,9 +17,9 @@
   </a>
 </div>
 
-###
 
-<h1 align='center'>SKILLS</h1>
+<h2 align='center'>SKILLS</h2>
+<p align='center' >HTML | Javascript | CSS | React | Bootstrap | C# | .NET | MICROSOFT SQL SERVER | Bootstrap | JSON | VS Code | Visual Studio </p> 
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MicrosoftSqlServer width="45" height="45"/>
