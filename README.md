@@ -9,11 +9,16 @@
 
 <h4 align='center'>Contact Information</h4>
 <p align='center'>Email: tylerjonessr@yahoo.com</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/tylerjonessr/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  width='45' height='45'/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCUiwfcjQ1GBeMwpkyxyyROg" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  width='45' height='45'/>
+  </a>
+</div>
 
-<p align='center'>
-[<img align='center' src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TylerJonesSr)  [<img align='center' src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/TylerJonesSr/) <br> [<img align='center' src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/CodeWIthTyler)
-</p> 
- 
+###
 
 <h1 align='center'>SKILLS</h1>
 <p align="center">
