@@ -6,7 +6,7 @@
 <p align='center'>I'm a full stack software developer and content creator building software projects from the ground up. Coding projects on this page will take an in depth look at real life problems and strategically resolve those issues with code! My video content will follow the same concepts while providing an in depth look of the entire process beginning with the issue, planning, everything in between, and finally showcasing a solution.</p> 
 
 <h2 align='center'>Contact Information</h2>
-<p align='center'>Email: tylerjonessr@yahoo.com</p>
+<p align='center'>Email: hire_tylerjonessr@yahoo.com</p>
 <div align="center">
   <a href="https://www.linkedin.com/in/tylerjonessr/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  width='45' height='45'/>
